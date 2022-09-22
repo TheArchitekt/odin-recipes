@@ -1,0 +1,19 @@
+.adjust-title {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.image-adjust {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 500px;
+    
+}
+
+.recipe-list {
+    font-size: 28px;
+    font-weight: bold;
+}
